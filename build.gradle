@@ -13,12 +13,19 @@ repositories {
 sourceCompatibility = 1.8
 
 application {
-    mainClassName = "com.jaimrooc.functions.practice.jobsearch.JobSearch"
+    // un-commit for test
+    // mainClassName = "com.jaimrooc.functions.practice.jobsearch.JobSearch"
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+
+    // TEST (INI)
+    // https://mvnrepository.com/artifact/junit/junit
+    testCompile group: 'junit', name: 'junit', version: '4.13'
+
+    // https://mvnrepository.com/artifact/org.mockito/mockito-core
+    testCompile group: 'org.mockito', name: 'mockito-core', version: '3.6.28'
+    // TEST (END)
 
     // https://mvnrepository.com/artifact/com.beust/jcommander
     compile group: 'com.beust', name: 'jcommander', version: '1.78'
@@ -28,8 +35,4 @@ dependencies {
 
     // https://mvnrepository.com/artifact/io.github.openfeign/feign-gson
     compile group: 'io.github.openfeign', name: 'feign-gson', version: '10.9'
-}
-
-test {
-    useJUnitPlatform()
 }
