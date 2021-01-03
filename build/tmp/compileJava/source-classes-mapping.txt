@@ -8,6 +8,10 @@ com/jaimrooc/functions/practice/jobsearch/cli/CLIFunctions.java
  com.jaimrooc.functions.practice.jobsearch.cli.CLIFunctions
 com/jaimrooc/functions/NestedFunctions.java
  com.jaimrooc.functions.NestedFunctions
+com/jaimrooc/junit/tdd/discounts/PriceCalculator.java
+ com.jaimrooc.junit.tdd.discounts.PriceCalculator
+com/jaimrooc/junit/tdd/mvc/movies/model/Genre.java
+ com.jaimrooc.junit.tdd.mvc.movies.model.Genre
 com/jaimrooc/functions/OperatorsExample.java
  com.jaimrooc.functions.OperatorsExample
 com/jaimrooc/functions/practice/jobsearch/CommanderFunctions.java
@@ -18,12 +22,16 @@ com/jaimrooc/functions/practice/jobsearch/JobPosition.java
  com.jaimrooc.functions.practice.jobsearch.JobPosition
 com/jaimrooc/functions/practice/jobsearch/JobSearch.java
  com.jaimrooc.functions.practice.jobsearch.JobSearch
+com/jaimrooc/junit/tdd/mvc/movies/model/Movie.java
+ com.jaimrooc.junit.tdd.mvc.movies.model.Movie
 com/jaimrooc/functions/practice/jobsearch/cli/CLIHelpValidator.java
  com.jaimrooc.functions.practice.jobsearch.cli.CLIHelpValidator
 com/jaimrooc/functions/practice/jobsearch/api/APIJobs.java
  com.jaimrooc.functions.practice.jobsearch.api.APIJobs
 com/jaimrooc/junit/PlayerMockitoExample.java
  com.jaimrooc.junit.PlayerMockitoExample
+com/jaimrooc/junit/tdd/mvc/movies/data/MovieRepository.java
+ com.jaimrooc.junit.tdd.mvc.movies.data.MovieRepository
 com/jaimrooc/functions/StreamsTypeExample.java
  com.jaimrooc.functions.StreamsTypeExample
 com/jaimrooc/junit/StringUtil.java
@@ -45,6 +53,8 @@ com/jaimrooc/functions/practice/jobsearch/cli/CLIKeywordValidator.java
 com/jaimrooc/functions/PredicateExample.java
  com.jaimrooc.functions.PredicateExample
  com.jaimrooc.functions.PredicateExample$Student
+com/jaimrooc/junit/tdd/fizzbuzz/FizzBuzz.java
+ com.jaimrooc.junit.tdd.fizzbuzz.FizzBuzz
 com/jaimrooc/functions/FunctionExample.java
  com.jaimrooc.functions.FunctionExample
  com.jaimrooc.functions.FunctionExample$1
@@ -53,7 +63,11 @@ com/jaimrooc/functions/StreamsExample.java
 com/jaimrooc/junit/example/paymentplatform/PaymentResponse.java
  com.jaimrooc.junit.example.paymentplatform.PaymentResponse
  com.jaimrooc.junit.example.paymentplatform.PaymentResponse$PaymentStatus
+com/jaimrooc/junit/tdd/leapyear/DateUtil.java
+ com.jaimrooc.junit.tdd.leapyear.DateUtil
 com/jaimrooc/functions/OptionalExample.java
  com.jaimrooc.functions.OptionalExample
 com/jaimrooc/functions/ConsumerAndSupplierExample.java
  com.jaimrooc.functions.ConsumerAndSupplierExample
+com/jaimrooc/junit/tdd/mvc/movies/service/MovieService.java
+ com.jaimrooc.junit.tdd.mvc.movies.service.MovieService
